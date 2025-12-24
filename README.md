@@ -18,9 +18,9 @@ I'm Talyta, a Computer Engeneering student, currently workin at LEA (Applied Ele
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![talytp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talytp&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Talytp&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
