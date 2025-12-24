@@ -2,7 +2,7 @@
 
 **`Willing Student`**
 
-I'm Talyta, a Computer Engeenering student, currently workin at LEA (Applied Electromagnetism Laboratory). I have great interest in Machine Learning, Data Science, Hardware Applications and a lot more. I'm now diving deeper in the programation world, seeking to discover my way into techlogies.
+I'm Talyta, a Computer Engeneering student, currently workin at LEA (Applied Electromagnetism Laboratory). I have great interest in Machine Learning, Data Science, Hardware Applications and a lot more. I'm now diving deeper in the programation world, seeking to discover my way into techlogies.
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
